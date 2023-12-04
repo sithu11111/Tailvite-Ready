@@ -18,14 +18,14 @@ vite-plugin-simple-json-server, Tailwind CSS, Flowbite.
 ```
 ## Start
 
-Create a new floder and clone this repo or run this command in your terminal.
+Create a new folder and clone this repo or run this command in your terminal.
 
 ```
 git clone https://github.com/sithu11111/Tailvite-Ready.git
 ```
 
 
-Run this in your terminal.
+And then, run this in your terminal.
 
 ```
 npm run dev
