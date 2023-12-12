@@ -24,6 +24,12 @@ Create a new folder and clone this repo or run this command in your terminal.
 git clone https://github.com/sithu11111/Tailvite-Ready.git
 ```
 
+and , run this command
+
+```
+npm i
+```
+
 
 And then, run this in your terminal.
 
